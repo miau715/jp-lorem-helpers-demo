@@ -1,3 +1,4 @@
+#forked from https://github.com/gugod/zh-lorem/blob/master/lib/zh-lorem.rb
 module ViewHelpers
   def jp_lorem_name(replacement = nil)
     if replacement
