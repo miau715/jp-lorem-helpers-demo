@@ -29,7 +29,7 @@ https://github.com/gugod/zh-lorem/blob/master/lib/zh-lorem.rb
 例え：Okamoto
 
 ###jp_lorem_email
-日本感じの仮メールアドレスが出来ます。  
+日本風の仮メールアドレスが出来ます。  
 例え：akiotakeda@excite.co.jp
 
 ###jp_lorem_word
