@@ -8,12 +8,12 @@ module ViewHelpers
     end
   end
 
-  def jp_lorem_name_pinyin(replacement = nil)
+  def jp_lorem_name_en(replacement = nil)
     if replacement
       return replacement
     end
 
-    return jp_lorem_first_name_pinyin + " " + jp_lorem_last_name_pinyin
+    return jp_lorem_first_name_en + " " + jp_lorem_last_name_en
   end
 
   def jp_lorem_first_name(replacement = nil)
@@ -25,7 +25,7 @@ module ViewHelpers
     return x[rand(x.size)]
   end
 
-  def jp_lorem_first_name_pinyin(replacement = nil)
+  def jp_lorem_first_name_en(replacement = nil)
     if replacement
       return replacement
     end
@@ -43,7 +43,7 @@ module ViewHelpers
     return x[rand(x.size)]
   end
 
-  def jp_lorem_last_name_pinyin(replacement = nil)
+  def jp_lorem_last_name_en(replacement = nil)
     if replacement
       return replacement
     end
@@ -59,7 +59,7 @@ module ViewHelpers
     
     delimiters = [ '_', '-', '' ]
     domains = %w(gmail.com yahoo.co.jp hotmail.com mac.com example.com mail.goo.ne.jp excite.co.jp @chan.ne.jp)
-    username = jp_lorem_first_name_pinyin + jp_lorem_last_name_pinyin
+    username = jp_lorem_first_name_en + jp_lorem_last_name_en
     return "#{username}@#{domains[rand(domains.size)]}".downcase
   end
 
