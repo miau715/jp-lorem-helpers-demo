@@ -5,27 +5,27 @@ jp-lorem-helpers-demo
 https://github.com/gugod/zh-lorem/blob/master/lib/zh-lorem.rb
 
 ###jp_lorem_name
-仮日本名前が出来ます。  
+仮の日本人の名前が出来ます。  
 例え：小野正雄  
 
 ###jp_lorem_name_en
-英語で表示の仮日本名前が出来ます。  
+仮の日本人の名前を英語で表示が出来ます。  
 例え：Syouta Ueda
 
 ###jp_lorem_first_name
-仮日本名が出来ます。  
+仮の日本人の名が出来ます。  
 例え：宏
 
 ###jp_lorem_first_name_en
-英語で表示の仮日本名が出来ます。  
+仮の日本人の名を英語で表示が出来ます。   
 例え：Daichi
 
 ###jp_lorem_last_name
-仮日本苗字が出来ます。  
+仮の日本人の苗字が出来ます。  
 例え：山崎
 
 ###jp_lorem_last_name_en
-英語で表示の仮日本苗字が出来ます。  
+仮の日本人の苗字を英語で表示が出来ます。    
 例え：Okamoto
 
 ###jp_lorem_email
@@ -41,11 +41,11 @@ https://github.com/gugod/zh-lorem/blob/master/lib/zh-lorem.rb
 例えば５を指定したらこんな感じの結果が出来ます：よのせ朝ラ
 
 ###jp_lorem_sentence
-日本語のセンテンス一つが出来ます。  
+日本語の文が一つが出来ます。  
 例え：あの絵からでは、ホンマに美味しすぎた！
 
 ###jp_lorem_sentences(5)
-括弧中指定数量の日本語のセンテンスが出来ます。  
+括弧中指定数量の日本語の文をが出来ます。  
 例えば５を指定したらこんな感じの結果が出来ます：  
 朝七時、普通ですよ。びっくりしました！皆は声を揃えて、残念な結果でした。ほんとに嬉しいです！10数年前に聞いた音楽、仏祖の力を借りて、この年齢までは、出で来いや！
 
