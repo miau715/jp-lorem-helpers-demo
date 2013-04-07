@@ -6,52 +6,52 @@ https://github.com/gugod/zh-lorem/blob/master/lib/zh-lorem.rb
 
 ###jp_lorem_name
 仮の日本人の名前が出来ます。  
-例え：小野正雄  
+例：小野正雄  
 
 ###jp_lorem_name_en
 仮の日本人の名前を英語で表示が出来ます。  
-例え：Syouta Ueda
+例：Syouta Ueda
 
 ###jp_lorem_first_name
 仮の日本人の名が出来ます。  
-例え：宏
+例：宏
 
 ###jp_lorem_first_name_en
 仮の日本人の名を英語で表示が出来ます。   
-例え：Daichi
+例：Daichi
 
 ###jp_lorem_last_name
 仮の日本人の苗字が出来ます。  
-例え：山崎
+例：山崎
 
 ###jp_lorem_last_name_en
 仮の日本人の苗字を英語で表示が出来ます。    
-例え：Okamoto
+例：Okamoto
 
 ###jp_lorem_email
 日本風の仮メールアドレスが出来ます。  
-例え：akiotakeda@excite.co.jp
+例：akiotakeda@excite.co.jp
 
 ###jp_lorem_word
 漢字やかなを一文字が出来ます。  
-例え：グ
+例：グ
 
 ###jp_lorem_words(5)
-漢字やかなを括弧中指定数量が出来ます。  
+漢字やかなを括弧で指定した文字数で表示出来ます。 
 例えば５を指定したらこんな感じの結果が出来ます：よのせ朝ラ
 
 ###jp_lorem_sentence
 日本語の文が一つが出来ます。  
-例え：あの絵からでは、ホンマに美味しすぎた！
+例：あの絵からでは、ホンマに美味しすぎた！
 
 ###jp_lorem_sentences(5)
-括弧中指定数量の日本語の文をが出来ます。  
+日本語の文を括弧中指定数量で表示出来ます。  
 例えば５を指定したらこんな感じの結果が出来ます：  
 朝七時、普通ですよ。びっくりしました！皆は声を揃えて、残念な結果でした。ほんとに嬉しいです！10数年前に聞いた音楽、仏祖の力を借りて、この年齢までは、出で来いや！
 
 ###jp_lorem_paragraph  
 一段落の日本語が出来ます。  
-例え：  
+例：  
 器材を準備して、最低だぁ！カレンダーを、中身は子供ので、お腹が痛い。バカバカしい。時には涼しい秋風のように、熊本に住んでいる人は、バナナにチョコレートを塗した菓子。金持ちは借金して、それに答えて、我々は納得できない！悲しすぎでしょう！
 
 ###jp_lorem_paragraphs(3)
