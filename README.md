@@ -1,8 +1,12 @@
 jp-lorem-helpers-demo
 =====================
 
-この helpers は、ここからフォークしたです：
+この helper は、ここからフォークしたです：　　
 https://github.com/gugod/zh-lorem/blob/master/lib/zh-lorem.rb
+
+この repo は Fire.app 用の demo ですから、そのまま試用したいなら Fire.app が必要です：
+http://fireapp.handlino.com/
+
 
 ###jp_lorem_name
 仮の日本人の名前が出来ます。  
